@@ -2,7 +2,7 @@
 
 This project primarily focuses on the gathering and transformation of attendance data, leveraging Data Analysis Expressions (DAX) to create a detailed matrix. The dashboard showcases a range of metrics, including 'Work from Home (WFH) %' and 'Sick Leave (SL) Presence %,' enabling users to gain valuable insights into attendance trends.
 
-**Key Features
+**Key Features**
 Interactive Data Visualization: The dashboard offers an interactive interface for exploring attendance metrics, allowing users to dive deep into the data and extract valuable insights.
 
 Dynamic Area Graphs: The project incorporates dynamic area graphs to display attendance trends over time, providing a visually appealing and informative representation of the data.
