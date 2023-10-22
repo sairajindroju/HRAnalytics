@@ -1,4 +1,4 @@
-# HR Analytics
+#HR Analytics
 
 This project primarily focuses on the gathering and transformation of attendance data, leveraging Data Analysis Expressions (DAX) to create a detailed matrix. The dashboard showcases a range of metrics, including 'Work from Home (WFH) %', 'Sick Leave (SL) %' and 'Presence %.' enabling users to gain valuable insights into attendance trends.
 
