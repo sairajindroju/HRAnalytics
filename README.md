@@ -19,12 +19,3 @@ Clone the repository to your local machine using git clone.
 Open the dashboard in PowerBI Desktop.
 
 Interact with the data visualizations to explore attendance metrics, area graphs, and trend lines.
-
-**Usage :**
-
-
-The Attendence Metrics Dashboard is a valuable tool for HR professionals, managers, and anyone interested in analyzing attendance trends. Use this dashboard to:
-
-Monitor attendance trends over time.
-Analyze 'Work from Home (WFH) %', 'Sick Leave (SL) %' and 'Presence %.'
-Extract insights for informed decision-making.
